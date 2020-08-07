@@ -15,11 +15,11 @@
 
 <h3> 👦💻 Developer Systems / Front-End </h3>
 
-<p align="justify">Meu nome é Daniel Lopes Sobrinho, tenho 32 anos e moro no Rio de Janeiro. Comecei minha graduação em Análise e Desenvolvimento de Sitemas na modalidade EAD na Universidade Estácio de Sá. Atualmente faço projetos individuais, tem sido uma experiência fantástica e tenho aprendido com outros cursos como a RocketSeat, Cursoemvídeo, Skylab e Cod3r.</p>
+<p align="justify">Meu nome é Daniel Lopes Sobrinho, tenho 32 anos e moro no Rio de Janeiro. Comecei minha graduação em Análise e Desenvolvimento de Sistemas na modalidade EAD na Universidade Estácio de Sá. Atualmente faço projetos individuais, tem sido uma experiência fantástica e tenho aprendido com outros cursos como a RocketSeat, Cursoemvídeo, Skylab e Cod3r.</p>
 
 <p align="justify">Se eu tivesse que me definir em uma palavra, seria: dedicado. Desde quando comecei nos estudos de programação sempre me empenhei ao máximo para conhecer todos os conceitos e tecnologias, comecei com C++ depois passei por C, Java, PHP, HTML, CSS, JavaScript, SQL e cheguei na stack que venho estudando hoje React + Node.</p>
 
-<p align="justify">Aprender exige esforço, dedicação, comprometimento e o mais importante EMPENHO, e o que não falta em mim é vontade insistir em aorender algo novo. O caminho não foi fácil, muitos erros (mas aprendemos com os erros kkk) mas é muito gratificante quando se faz aquilo que ama. Poder desenvolver projetos completos e ajudar outros nessa mesma jornada, faz todo esforço valer a pena. </p>
+<p align="justify">Aprender exige esforço, dedicação, comprometimento e o mais importante EMPENHO, e o que não falta em mim é vontade insistir em aprender algo novo. O caminho não foi fácil, muitos erros (mas aprendemos com os erros kkk) mas é muito gratificante quando se faz aquilo que ama. Poder desenvolver projetos completos e ajudar outros nessa mesma jornada, faz todo esforço valer a pena. </p>
 
 <h3> Conhecimentos? 📚 </h3>
 
