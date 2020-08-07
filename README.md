@@ -32,8 +32,6 @@
 
 <img src="https://github.com/Fekleite/Fekleite/blob/master/assets/css3.svg" width="48"/>
 
-<img src="https://github.com/Fekleite/Fekleite/blob/master/assets/sass.svg" width="48"/>
-
 <img src="https://github.com/Fekleite/Fekleite/blob/master/assets/react.svg" width="48"/>
 
 <img src="https://github.com/Fekleite/Fekleite/blob/master/assets/node-dot-js.svg" width="48"/>
@@ -42,7 +40,7 @@
 
 <img src="https://github.com/Fekleite/Fekleite/blob/master/assets/git.svg" width="48"/>
 
-<img src="https://github.com/Fekleite/Fekleite/blob/master/assets/figma.svg" width="48"/>
+
 </p>
 
 <br>
