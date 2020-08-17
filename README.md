@@ -6,6 +6,8 @@
   <a href="https://github.com/DanieLopessb" alt="LinkedIn">
     <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white" />
   </a>
+  <a href="https://api.whatsapp.com/send?phone=5521982944133&text=Hello!" alt="Whatsapp">
+	<img src="https://camo.githubusercontent.com/e1d05019da6ad6d147b4147087ded5cb8258f125/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d57686174736170702d3443413134333f7374796c653d666c61742d737175617265266c6162656c436f6c6f723d344341313433266c6f676f3d7768617473617070266c6f676f436f6c6f723d7768697465266c696e6b3d68747470733a2f2f6170692e77686174736170702e636f6d2f73656e643f70686f6e653d3535323239393732383536363226746578743d48656c6c6f21">
   <a href="mailto:daniellopesb.dl@gmail.com" alt="Gmail">
     <img src="https://img.shields.io/badge/-Gmail-D54B3D?style=flat-square&logo=Gmail&logoColor=white" />
   </a>
